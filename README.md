@@ -13,6 +13,10 @@ http://www.naturalearthdata.com
 - 1/10m scale world dataset (world10, lakes10, rivers10):
 ne_10m_admin_countries_lakes version 3.1.0 (December 2013)
 
+This dataset may serve as un update to worldHires in most cases, with two caveats:
+i  * the resolution is slightly lower,
+   * it contains many more islands.
+
 - 1/50m scale world dataset (world50): slightly lower resolution
 
 All data is in the public domain.

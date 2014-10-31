@@ -1,6 +1,6 @@
 \name{world10}
 \docType{data}
-\alias{world10}
+\alias{world10MapEnv}
 \alias{lakes10}
 \alias{rivers10}
 \alias{world50}
