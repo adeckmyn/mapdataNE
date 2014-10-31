@@ -32,5 +32,18 @@ The C and R code in this package was adapted from the "mapdata" package at CRAN,
 
 The naming of the polygons is as close as possible to that in the original maps data base. Not all small islands are named. These may be identified in future versions (help is welcome).
 
+#TO DO
+
+I don't plan to work much on the C code etc. in this package. Unless problems arise, of course.
+
+The actual polygons/lines are currently from Natural Earth v3.1.0 (December 2013). 
+- Some islands groups are spread over the 180 line. Difficult to map. Even some small Russian islands appear on the other side of the map.
+- For a pacific-centered version, all polylines must be split on the central meridian.
+- Add rivers & lakes data sets.
+- Add world50 dataset for a lower resolution and less islands.
+- Add world110 for large maps.
+- Continuing effort on *polygon names*:
+  * Correct any mistakes (I'm sure there are many)
+  * Identify more of the unnamed polygons (mostly small islands). Not a priority.
 
 
