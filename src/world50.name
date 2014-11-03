@@ -1,7 +1,7 @@
 Aruba	1
 Afghanistan	2
-1	3
-1	4
+Angola:1	3
+Angola:1	4
 Anguilla	5
 Albania	6
 Aland Islands:1	7
@@ -12,7 +12,7 @@ United Arab Emirates:Abu al Abyad	11
 United Arab Emirates:2	12
 United Arab Emirates:Marawwah	13
 United Arab Emirates:4	14
-United Arab Emirates:5	15
+United Arab Emirates	15
 United Arab Emirates:6	16
 Argentina:Isla de los Estados	17
 Argentina:Tierra del Fuego	18
@@ -118,7 +118,7 @@ Antarctica:James Ross Island	117
 Antarctica:Vega	118
 Antarctica:95	119
 Antarctica:Dundee Island	120
-Antarctica:97	121
+Antarctica	121
 Antarctica:Joinville Island	122
 Antarctica:D'Urville Island	123
 Antarctica:Snow Island	124
@@ -212,7 +212,7 @@ Bahamas:Eleuthera Island	211
 Bahamas:Grand Bahama Island	212
 Bahamas:Abaco Island	213
 Bosnia and Herzegovina	214
-Saint-Barth√©lemy	215
+Saint-Barthelemy	215
 Belarus	216
 Belize:Turneffe Island	217
 Belize:Ambergris Cay	218
@@ -426,7 +426,7 @@ Chile:Isle Guafo	425
 Chile:Isla Grande de Chiloe	426
 Chile:Isla Juan Fernandez	427
 Chile:Easter Island	428
-Chile:31	429
+Chile	429
 China:1	430
 China:Donghai Dao	431
 China:3	432
@@ -439,15 +439,15 @@ China:Liuheng Dao	438
 China:10	439
 China:Zhoushan Dao	440
 China:Chongming Dao	441
-China:13	442
-CÙte d'Ivoire:1	443
-CÙte d'Ivoire:2	444
+China	442
+Cote d'Ivoire:1	443
+Cote d'Ivoire	444
 Cameroon	445
 Democratic Republic of the Congo	446
 Republic of Congo	447
 Cook Islands	448
 Colombia:1	449
-Colombia:2	450
+Colombia	450
 Comoros:1	451
 Comoros:2	452
 Comoros:3	453
@@ -467,7 +467,7 @@ Cuba:4	466
 Cuba:5	467
 Cuba:6	468
 Cuba:7	469
-CuraÁao	470
+Curacao	470
 Cayman Islands:1	471
 Cayman Islands:2	472
 Cayman Islands:3	473
@@ -573,11 +573,11 @@ Faeroe Islands:Sandoy	572
 Faeroe Islands:Vagar	573
 Faeroe Islands:Eysturoy	574
 Faeroe Islands:Bordoy	575
-Federated States of Micronesia:Kosrae	576
-Federated States of Micronesia:Pohnpei	577
-Federated States of Micronesia:Shichiyo	578
-Federated States of Micronesia:Moen	579
-Federated States of Micronesia:Yap	580
+Micronesia:Kosrae	576
+Micronesia:Pohnpei	577
+Micronesia:Shichiyo	578
+Micronesia:Moen	579
+Micronesia:Yap	580
 Gabon	581
 UK:Isle of Wight	582
 UK:Wales:Anglesey	583
@@ -585,7 +585,7 @@ UK:Northern Ireland	584
 UK:Scotland:Island of Arran	585
 UK:Scotland:Islay	586
 UK:Scotland:Jura	587
-United Kingdom:7	588
+UK:7	588
 UK:Scotland:Coll	589
 UK:Scotland:Barra	590
 UK:Scotland:Ruhm	591
@@ -594,11 +594,11 @@ UK:Scotland:Island of Skye	593
 UK:Scotland:North Uist	594
 UK:Scotland:Isle of Lewis	595
 UK:Great Britain	596
-United Kingdom:16	597
+UK:16	597
 UK:Scotland:Orkney Islands:Hoy	598
 UK:Scotland:Orkney Islands:Mainland	599
-United Kingdom:19	600
-United Kingdom:20	601
+UK:19	600
+UK:20	601
 UK:Scotland:Shetland Islands:Mainland	602
 UK:Scotland:Shetland Islands:Yell	603
 UK:Scotland:Shetland Islands:Unst	604
@@ -677,8 +677,8 @@ Greenland	676
 Guatemala	677
 USA:Guam	678
 Guyana	679
-Hong Kong:2	680
-Hong Kong:2	681
+China:Hong Kong:1	680
+China:Hong Kong:2	681
 China:Hong Kong	682
 Heard I. and McDonald Islands	683
 Honduras	684
@@ -944,14 +944,14 @@ Saint Kitts and Nevis:Nevis	943
 Saint Kitts and Nevis:Kitts	944
 South Korea:Cheju Do	945
 South Korea:11	946
-Republic of Korea:3	947
+South Korea:3	947
 South Korea:21	948
-Republic of Korea:5	949
+South Korea:5	949
 South Korea:Namhae Do	950
 South Korea:Koje Do	951
-Republic of Korea:8	952
+South Korea:8	952
 South Korea:Ullung Do	953
-Republic of Korea:10	954
+South Korea:10	954
 South Korea	955
 Kosovo	956
 Kuwait:Bubiyan	957
@@ -970,7 +970,7 @@ Lithuania:1	969
 Lithuania	970
 Luxembourg	971
 Latvia	972
-Macao	973
+China:Macao	973
 Saint-Martin	974
 Morocco	975
 Monaco	976
@@ -1253,9 +1253,9 @@ French Polynesia:Ua Huka	1252
 French Polynesia:Nuku Hiva	1253
 Qatar	1254
 Romania	1255
-Russian Federation:1	1256
-Russian Federation:2	1257
-Russian Federation:3	1258
+Russia:1	1256
+Russia:2	1257
+Russia:3	1258
 Russia:Shikotan To	1259
 Russia:Ostrov Kunashir	1260
 Russia:Ostrov Iturup	1261
@@ -1342,13 +1342,13 @@ Russia:Zemlya Georga	1341
 Russia:Ostrov Ushakova	1342
 Russia:198	1343
 Russia:Ostrov Salisbury	1344
-Russian Federation:92	1345
+Russia:92	1345
 Russia:201	1346
 Russia:Ostrov Greem-Bell	1347
 Russia:Ostrov Shmidta	1348
 Russia:Ostrov Komsomolets	1349
 Russia:209	1350
-Russian Federation:98	1351
+Russia:98	1351
 Russia:Ostrova Belayazemiya	1352
 Russia:Ostrov Rudolfa	1353
 Rwanda	1354
@@ -1395,8 +1395,8 @@ Somalia	1394
 Saint Pierre and Miquelon:1	1395
 Saint Pierre and Miquelon:Miquelon	1396
 Serbia	1397
-S√£o Tom√© and Principe:Ilha da Sao Tome	1398
-S√£o Tom√© and Principe:Ilha do Principe	1399
+Sao Tome and Principe:Ilha da Sao Tome	1398
+Sao Tome and Principe:Ilha do Principe	1399
 Suriname	1400
 Slovakia	1401
 Slovenia	1402
@@ -1470,10 +1470,10 @@ USA:Florida:Sugarloaf Key	1469
 USA:Florida:Big Pine Key	1470
 USA:Florida:Marathon Key	1471
 USA:Florida:Long Key	1472
-United States:13	1473
+USA:13	1473
 USA:Florida:Key Largo	1474
 USA:Florida:Sanibel Island	1475
-United States:16	1476
+USA:16	1476
 USA:Texas:Padre Island	1477
 USA:Texas:Matagorda Island	1478
 USA:Florida:Hutchinson Island	1479
@@ -1482,55 +1482,55 @@ USA:Texas:Matagorda	1481
 USA:Texas:Galveston Island	1482
 USA:Louisiana:Marsh Island	1483
 USA:Florida:Saint George Island	1484
-United States:25	1485
+USA:25	1485
 USA:Louisiana:Chandeleur Island	1486
 USA:Louisiana:Isle au Pitre	1487
 USA:Mississippi:Horn Island	1488
 USA:Alabama:Dauphin Island	1489
-United States:30	1490
+USA:30	1490
 USA:California:San Clemente Island	1491
 USA:California:San Nicolas Island	1492
 USA:California:Santa Catalina Island	1493
 USA:California:Santa Rosa Island	1494
 USA:California:San Miguel Island	1495
 USA:California:Santa Cruz Island	1496
-United States:37	1497
+USA:37	1497
 USA:Core Banks	1498
 USA:Ocracoke Island	1499
 USA:Pea Island	1500
-United States:41	1501
+USA:41	1501
 USA:Chincoteague Island	1502
 USA:Long Beach Island	1503
-United States:44	1504
+USA:44	1504
 USA:New York:Long Island	1505
 USA:Massachusettes:Nantucket Island	1506
 USA:Massachusettes:Martha's Vineyard	1507
-United States:48	1508
-United States:49	1509
-United States:50	1510
-United States:51	1511
-United States:52	1512
-United States:53	1513
+USA:48	1508
+USA:49	1509
+USA:50	1510
+USA:51	1511
+USA:52	1512
+USA:53	1513
 USA:Maine:Mount Desert Island	1514
-United States:55	1515
+USA:55	1515
 USA:Door Penninsula	1516
-United States:57	1517
-United States:58	1518
-United States:59	1519
+USA:57	1517
+USA:58	1518
+USA:59	1519
 USA:Drummond Island	1520
-United States:61	1521
-United States:62	1522
+USA:61	1521
+USA:62	1522
 USA:Madeline Island	1523
 USA:Stockton Island	1524
-United States:65	1525
-United States:66	1526
-United States:67	1527
-United States:68	1528
-United States:69	1529
-United States:70	1530
-United States:71	1531
+USA:65	1525
+USA:66	1526
+USA:67	1527
+USA:68	1528
+USA:69	1529
+USA:70	1530
+USA:71	1531
 USA:Washington:Whidbey Island	1532
-United States:73	1533
+USA:73	1533
 USA:Washington:San Juan Island	1534
 USA:Washington:Orcas Island	1535
 USA	1536
@@ -1564,16 +1564,16 @@ USA:Alaska:Big Koniuji Island	1563
 USA:Alaska:Annette Island	1564
 USA:Alaska:Nagai Island	1565
 USA:Alaska:Dall Island	1566
-United States:107	1567
+USA:107	1567
 USA:Alaska:Unga Island	1568
-United States:109	1569
+USA:109	1569
 USA:Alaska:Chirikof Island	1570
 USA:Alaska:Revillagigedo Island	1571
 USA:Alaska:Prince of Wales Island	1572
 USUSAmbo Island	1573
 USA:Alaska:Etolin Island	1574
 USA:Alaska:Tugidak Island	1575
-United States:116	1576
+USA:116	1576
 USA:Alaska:Saint George Island	1577
 USA:Alaska:Mitkof Island	1578
 USA:Alaska:Kuiu Island	1579
@@ -1590,21 +1590,21 @@ USA:Alaska:Afognak Island	1589
 USA:Alaska:Shuyak Island	1590
 USA:Alaska:Hagemeister Island	1591
 USA:316	1592
-United States:133	1593
+USA:133	1593
 USA:Alaska:Montague Island	1594
 USA:Alaska:Nunivak Island	1595
-United States:136	1596
+USA:136	1596
 USA:Alaska:Hinchinbrook Island	1597
-United States:138	1598
-United States:139	1599
+USA:138	1598
+USA:139	1599
 USA:Alaska:Saint Matthew Island	1600
 USA:338	1601
-United States:142	1602
-United States:143	1603
+USA:142	1602
+USA:143	1603
 USA:Alaska	1604
 Uzbekistan:1	1605
 Uzbekistan:2	1606
-Uzbekistan:3	1607
+Uzbekistan	1607
 Uzbekistan:4	1608
 Vatican	1609
 Saint Vincent and the Grenadines:1	1610
@@ -1657,5 +1657,5 @@ South Africa	1656
 Lesotho	1657
 Zambia:1	1658
 Zambia	1659
-Zimbabwe	1660
+Zimbabwe:1	1660
 Zimbabwe	1661
