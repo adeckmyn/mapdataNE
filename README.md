@@ -41,7 +41,7 @@ The actual polygons/lines are currently from Natural Earth v3.1.0 (December 2013
   * Correct any mistakes & inconsistencies (I'm sure there are many)
   * Identify more of the unnamed polygons (mostly small islands). Not a priority.
 - Some islands groups are spread over the 180 line. Difficult to map. Even some small Russian islands appear on the other side of the map.
-- A pacific-centered version (world10pc, world50pc) is created on the fly. The result is not yet optimal, because "map" is too flexible. As a result, some polylines now end up on the wrong side. In worldHires, all polylines are much shorter, so it isn't a problem there.
+- A pacific-centered version (world10pc, world50pc) is created on the fly. But as with the older world2 and world2Hires, it doesn't work with fill=TRUE.
 - Add rivers & lakes data sets.
 - Add world110 for large maps.
 
