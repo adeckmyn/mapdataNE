@@ -37,13 +37,12 @@ The naming of the polygons is as close as possible to that in the original maps 
 I don't plan to work much on the C code etc. in this package. Unless problems arise, of course.
 
 The actual polygons/lines are currently from Natural Earth v3.1.0 (December 2013). 
-- Some islands groups are spread over the 180 line. Difficult to map. Even some small Russian islands appear on the other side of the map.
-- For a pacific-centered version, all polylines must be split on the central meridian.
-- Add rivers & lakes data sets.
-- Add world50 dataset for a lower resolution and less islands.
-- Add world110 for large maps.
 - Continuing effort on *polygon names*:
-  * Correct any mistakes (I'm sure there are many)
+  * Correct any mistakes & inconsistencies (I'm sure there are many)
   * Identify more of the unnamed polygons (mostly small islands). Not a priority.
+- Some islands groups are spread over the 180 line. Difficult to map. Even some small Russian islands appear on the other side of the map.
+- A pacific-centered version (world10pc, world50pc) is created on the fly. The result is not yet optimal, because "map" is too flexible. As a result, some polylines now end up on the wrong side. In worldHires, all polylines are much shorter, so it isn't a problem there.
+- Add rivers & lakes data sets.
+- Add world110 for large maps.
 
 
