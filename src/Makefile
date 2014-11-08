@@ -47,6 +47,7 @@ PacificCentred: world10.line world50.line
 	@$(CP) world50.linestats world50pc.linestats
 	@$(CP) world50.gon world50pc.gon
 # add an extra line to Antarctica (nice with fill=T)
+# only for pacific centred map!
 	$(SED) -i '/^ 153$$/a \ 2102' world50pc.gon
 	$(SED) -i '/^ 259$$/a \ 4863' world10pc.gon
 	@$(CP) world50.gonstats world50pc.gonstats
