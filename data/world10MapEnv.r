@@ -1,1 +1,0 @@
-world10MapEnv <- "R_MAPDATANE_DATA_DIR"
