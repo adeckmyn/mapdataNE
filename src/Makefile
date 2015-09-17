@@ -8,9 +8,9 @@ RM = rm -f
 PKGNAME = mapdataNE
 MKDIR = mkdir
 
-GDATA = world10.G world50.G world10pc.G world50pc.G
-LDATA = world10.L world50.L world10pc.L world50pc.L
-NDATA = world10.N world50.N world10pc.N world50pc.N
+GDATA = world10.G
+LDATA = world10.L
+NDATA = world10.N
 
 .line.L:
 	@$(MKDIR) -p ../inst/mapdata
@@ -30,13 +30,13 @@ all: gdata ndata
 gdata: Gmake ldata
 	$(MAKE) $(GDATA)
 
-ldata: Lmake PacificCentred
+ldata: Lmake
 	$(MAKE) $(LDATA)
 
-ndata:  PacificCentred
+ndata: 
 	$(MAKE) $(NDATA)
 
-PacificCentred: world10.line world50.line
+PacificCentred: world10.line 
 	@$(ECHO) "Converting world10 to world10pc"
 	$(AWK) -f convert.awk < world10.line > world10pc.line
 	@$(CP) world10.linestats world10pc.linestats
@@ -54,5 +54,5 @@ PacificCentred: world10.line world50.line
 	@$(CP) world50.name world50pc.name
 
 clean:
-	$(RM) Gmake Lmake ../inst/mapdata/* world[15]0pc.* $(PKGNAME).s[lo] $(PKGNAME).dylib *.exe
+	$(RM) Gmake Lmake ../inst/mapdata/* $(PKGNAME).s[lo] $(PKGNAME).dylib *.exe
 	$(RM) -r ../inst

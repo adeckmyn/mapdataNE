@@ -8,22 +8,22 @@ Anguilla:2	7
 Albania:1	8
 Albania:2	9
 Albania	10
-Aland Islands:1	11
-Aland Islands:2	12
-Aland Islands:3	13
-Aland Islands:4	14
-Aland Islands:5	15
-Aland Islands:6	16
-Aland Islands:7	17
-Aland Islands:8	18
-Aland Islands:9	19
-Aland Islands:10	20
-Aland Islands:11	21
-Aland Islands:12	22
-Aland Islands:13	23
-Aland Islands:14	24
-Aland Islands:15	25
-Aland Islands:16	26
+Finland:Aland Islands:1	11
+Finland:Aland Islands:2	12
+Finland:Aland Islands:3	13
+Finland:Aland Islands:4	14
+Finland:Aland Islands:5	15
+Finland:Aland Islands:6	16
+Finland:Aland Islands:7	17
+Finland:Aland Islands:8	18
+Finland:Aland Islands:9	19
+Finland:Aland Islands:10	20
+Finland:Aland Islands:11	21
+Finland:Aland Islands:12	22
+Finland:Aland Islands:13	23
+Finland:Aland Islands:14	24
+Finland:Aland Islands:15	25
+Finland:Aland Islands:16	26
 Andorra	27
 United Arab Emirates:Abu al Abyad	28
 United Arab Emirates:2	29
@@ -232,7 +232,7 @@ Antarctica:Elephant Island	231
 Antarctica:Laurie Island	232
 Antarctica:178	233
 Antarctica:Coronation Island	234
-Ashmore and Cartier Islands	235
+Australia:Ashmore and Cartier Islands	235
 French Southern and Antarctic Lands:Kerguelen Islands:Ile Longue	236
 French Southern and Antarctic Lands:Kerguelen Islands:Ile de l'Ouest	237
 French Southern and Antarctic Lands:Kerguelen Islands:Ile du Port	238
@@ -251,8 +251,8 @@ French Southern and Antarctic Lands:15	250
 French Southern and Antarctic Lands:Ile Juan de Nova	251
 French Southern and Antarctic Lands:17	252
 French Southern and Antarctic Lands:18	253
-Antigua and Barbuda:Antigua	254
-Antigua and Barbuda:Barbuda	255
+Antigua	254
+Barbuda	255
 Australia:Macquarie Island	256
 Australia:South Bruny Island	257
 Australia:Bruny Island	258
@@ -427,7 +427,7 @@ Bahamas:Grand Bahama Island	426
 Bahamas:Abaco Island	427
 Bosnia and Herzegovina	428
 Bajo Nuevo Bank (Petrel Islands)	429
-Saint-Barthélemy	430
+Saint Barthelemy	430
 Belarus	431
 Belize:1	432
 Belize:2	433
@@ -487,8 +487,8 @@ Brazil:Ilha de Maraca	486
 Brazil:42	487
 Brazil	488
 Barbados	489
-Brunei Darussalam:East	490
-Brunei Darussalam	491
+Brunei:East	490
+Brunei	491
 Bhutan	492
 Botswana	493
 Central African Republic	494
@@ -1164,9 +1164,9 @@ Ivory Coast	1163
 Clipperton Island	1164
 Cameroon	1165
 Cameroon:2	1166
-Cyprus U.N. Buffer Zone:1	1167
-Cyprus U.N. Buffer Zone:2	1168
-Cyprus U.N. Buffer Zone:3	1169
+Cyprus:Cyprus U.N. Buffer Zone:1	1167
+Cyprus:Cyprus U.N. Buffer Zone:2	1168
+Cyprus:Cyprus U.N. Buffer Zone:3	1169
 Democratic Republic of the Congo:1	1170
 Democratic Republic of the Congo:2	1171
 Democratic Republic of the Congo	1172
@@ -1257,8 +1257,8 @@ Curacao	1256
 Cayman Islands:Grand Cayman	1257
 Cayman Islands:Little Cayman	1258
 Cayman Islands:3	1259
-Northern Cyprus:1	1260
-Northern Cyprus	1261
+Cyprus:Northern Cyprus:1	1260
+Cyprus:Northern Cyprus	1261
 Cyprus:1	1262
 Cyprus:2	1263
 Cyprus:3	1264
@@ -1335,15 +1335,15 @@ Egypt	1334
 Eritrea:Dehalak Deset	1335
 Eritrea:2	1336
 Eritrea	1337
-Dhekelia:1	1338
-Dhekelia:2	1339
-Spain:Canary Islands:Hierro	1340
-Spain:Canary Islands:Gran Canaria	1341
-Spain:Canary Islands:Gomera	1342
-Spain:Canary Islands:Tenerife	1343
-Spain:Canary Islands:Fuerteventura	1344
-Spain:Canary Islands:La Palma	1345
-Spain:Canary Islands:Lanzarote	1346
+Cyprus:Dhekelia:1	1338
+Cyprus:Dhekelia:2	1339
+Canary Islands:Hierro	1340
+Canary Islands:Gran Canaria	1341
+Canary Islands:Gomera	1342
+Canary Islands:Tenerife	1343
+Canary Islands:Fuerteventura	1344
+Canary Islands:La Palma	1345
+Canary Islands:Lanzarote	1346
 Spain:8	1347
 Spain:9	1348
 Spain:10	1349
@@ -1468,17 +1468,17 @@ Falkland Islands:12	1467
 Falkland Islands:East Falkland	1468
 Falkland Islands:14	1469
 Falkland Islands:15	1470
-France:Reunion Island	1471
-France:Dzaoudzi	1472
-France:Ile de Mayotte	1473
-France:French Guiana	1474
-France:Martinique	1475
+Reunion Island	1471
+Mayotte:Dzaoudzi	1472
+Mayotte:Grand Terre	1473
+French Guiana	1474
+Martinique	1475
 France:6	1476
 France:7	1477
-France:Guadeloupe:Marie-Galante	1478
-France:9	1479
-France:Guadeloupe:Basse-Terre	1480
-France:Guadeloupe:Grande-Terre	1481
+Guadeloupe:Marie-Galante	1478
+Guadeloupe:9	1479
+Guadeloupe:Basse-Terre	1480
+Guadeloupe:Grande-Terre	1481
 France:12	1482
 France:Corsica	1483
 France:14	1484
@@ -1589,7 +1589,7 @@ Guernsey:4	1588
 Ghana	1589
 Gibraltar	1590
 Guinea	1591
-The Gambia	1592
+Gambia	1592
 Guinea-Bissau:1	1593
 Guinea-Bissau:2	1594
 Guinea-Bissau:Orango	1595
@@ -1813,14 +1813,14 @@ Greenland:126	1812
 Greenland:127	1813
 Greenland	1814
 Guatemala	1815
-USA:Guam	1816
+Guam	1816
 Guyana:1	1817
 Guyana	1818
 China:Hong Kong:1	1819
 China:Hong Kong:2	1820
 China:Hong Kong:3	1821
 China:Hong Kong	1822
-Heard I. and McDonald Islands	1823
+Heard Island	1823
 Honduras:Isla El Tigre	1824
 Honduras:2	1825
 Honduras	1826
@@ -1879,7 +1879,7 @@ Indonesia:16	1878
 Indonesia:Lomblen	1879
 Indonesia:Pantar	1880
 Indonesia:19	1881
-Irian Jaya:Komoran	1882
+Indonesia:Papua:Komoran	1882
 Indonesia:21	1883
 Indonesia:22	1884
 Indonesia:Sangeang	1885
@@ -2022,7 +2022,7 @@ Indonesia:Mandioli	2021
 Indonesia:Gam	2022
 Indonesia:161	2023
 Indonesia:Batudaka	2024
-Indonesia:Irian Jaya	2025
+Indonesia:Papua	2025
 Indonesia:Singkep	2026
 Indonesia:Togin	2027
 Indonesia:Bacan	2028
@@ -2160,19 +2160,19 @@ India:Sagar Island	2159
 India:33	2160
 India:34	2161
 India	2162
-Indian Ocean Territories:1	2163
-Indian Ocean Territories:2	2164
-Indian Ocean Territories:3	2165
-British Indian Ocean Territory:1	2166
-British Indian Ocean Territory:2	2167
-British Indian Ocean Territory:3	2168
-British Indian Ocean Territory:4	2169
-British Indian Ocean Territory:5	2170
-British Indian Ocean Territory:6	2171
-British Indian Ocean Territory:7	2172
-British Indian Ocean Territory:8	2173
-British Indian Ocean Territory:9	2174
-British Indian Ocean Territory:10	2175
+Cocos (Keeling) Islands:1	2163
+Cocos (Keeling) Islands:2	2164
+Christmas Island:3	2165
+Chagos Archipelago:1	2166
+Chagos Archipelago:2	2167
+Chagos Archipelago:3	2168
+Chagos Archipelago:4	2169
+Chagos Archipelago:5	2170
+Chagos Archipelago:6	2171
+Chagos Archipelago:7	2172
+Chagos Archipelago:8	2173
+Chagos Archipelago:9	2174
+Chagos Archipelago:10	2175
 Ireland:1	2176
 Ireland:2	2177
 Ireland:3	2178
@@ -2228,10 +2228,10 @@ Italy:26	2227
 Italy:27	2228
 Italy:28	2229
 Italy	2230
-Italy:San Marino	2231
+San Marino	2231
 Vatican	2232
 Jamaica	2233
-UK:Jersey	2234
+Jersey	2234
 Jordan	2235
 Japan:1	2236
 Japan:2	2237
@@ -2403,8 +2403,8 @@ Kiribati:Butaritari	2402
 Kiribati:Kuma	2403
 Kiribati:Fanning Island	2404
 Kiribati:35	2405
-Saint Kitts and Nevis:Nevis	2406
-Saint Kitts and Nevis:Kitts	2407
+Nevis	2406
+Saint Kitts	2407
 South Korea:Cheju Do	2408
 South Korea:2	2409
 South Korea:3	2410
@@ -2481,7 +2481,7 @@ Luxembourg	2480
 Latvia	2481
 China:Macao	2482
 China:Macao:2	2483
-Saint-Martin	2484
+Saint Martin	2484
 Morocco	2485
 Monaco	2486
 Moldova	2487
@@ -2854,9 +2854,9 @@ Nicaragua:Isla del Maiz Grande	2853
 Nicaragua:Cayos Miskitos	2854
 Nicaragua	2855
 Niue	2856
-Netherlands:Bonaire	2857
-Netherlands:Sint Eustatius	2858
-Netherlands:Saba	2859
+Bonaire	2857
+Sint Eustatius	2858
+Saba	2859
 Netherlands:South	2860
 Netherlands:Schouwen-Duiveland	2861
 Netherlands:Zuid-Flevoland	2862
@@ -2868,7 +2868,7 @@ Netherlands:IJsselmeer	2867
 Netherlands:Ameland	2868
 Netherlands:Schiermonnikoog	2869
 Netherlands:Rottumeroog	2870
-Norway:Bouvet Island	2871
+Bouvet Island	2871
 Norway:2	2872
 Norway:3	2873
 Norway:4	2874
@@ -2965,29 +2965,29 @@ Norway:94	2964
 Norway:95	2965
 Norway	2966
 Norway:Mageroya	2967
-Norway:Svalbard:Jan Mayen	2968
+Norway:Jan Mayen	2968
 Norway:Svalbard:Byornoya	2969
 Norway:Svalbard:Hopen	2970
 Norway:Svalbard:Edgeoya	2971
 Norway:Svalbard:Barentsoya	2972
 Norway:Svalbard:Svenskoya	2973
-Norway:104	2974
+Norway:Svalbard:104	2974
 Norway:Svalbard:Kongsoya	2975
-Norway:106	2976
-Norway:107	2977
-Norway:108	2978
-Norway:109	2979
-Norway:110	2980
+Norway:Svalbard:106	2976
+Norway:Svalbard:107	2977
+Norway:Svalbard:108	2978
+Norway:Svalbard:109	2979
+Norway:Svalbard:110	2980
 Norway:Svalbard:Spitsbergen	2981
 Norway:Svalbard:Kvitoya	2982
-Norway:113	2983
-Norway:114	2984
-Norway:115	2985
+Norway:Svalbard:113	2983
+Norway:Svalbard:114	2984
+Norway:Svalbard:115	2985
 Norway:Svalbard:Nordaustlandet	2986
-Norway:117	2987
-Norway:118	2988
-Norway:119	2989
-Norway:120	2990
+Norway:Svalbard:117	2987
+Norway:Svalbard:118	2988
+Norway:Svalbard:119	2989
+Norway:Svalbard:120	2990
 Nepal	2991
 Nauru	2992
 New Zealand:1	2993
@@ -3244,16 +3244,16 @@ Portugal:3	3243
 Portugal:Madeira Islands:Madeira	3244
 Portugal:Madeira Islands:Porto Santo	3245
 Portugal:6	3246
-Portugal:Azores:Santa Maria	3247
-Portugal:Azores:Sao Miguel	3248
-Portugal:Azores:Pico	3249
-Portugal:10	3250
-Portugal:11	3251
-Portugal:Azores:Terceira	3252
-Portugal:13	3253
-Portugal:14	3254
-Portugal:Azores:Flores	3255
-Portugal:16	3256
+Azores:Santa Maria	3247
+Azores:Sao Miguel	3248
+Azores:Pico	3249
+Azores:10	3250
+Azores:11	3251
+Azores:Terceira	3252
+Azores:13	3253
+Azores:14	3254
+Azores:Flores	3255
+Azores:16	3256
 Portugal	3257
 Paraguay	3258
 Palestine:Gaza Strip	3259
@@ -3580,22 +3580,22 @@ South Sudan	3579
 Senegal	3580
 Serranilla Bank	3581
 Singapore	3582
-South Georgia and South Sandwich Islands:1	3583
-South Georgia and South Sandwich Islands:Thule Island	3584
-South Georgia and South Sandwich Islands:Bristol Island	3585
-South Georgia and South Sandwich Islands:Montagu Island	3586
-South Georgia and South Sandwich Islands:Saunders Island	3587
-South Georgia and South Sandwich Islands:Candlemas Island	3588
-South Georgia and South Sandwich Islands:7	3589
-South Georgia and South Sandwich Islands:Visokoi Island	3590
-South Georgia and South Sandwich Islands:Zavodovski Island	3591
-South Georgia and South Sandwich Islands:Annenkov Island	3592
-South Georgia and South Sandwich Islands:11	3593
-South Georgia and South Sandwich Islands:South Georgia	3594
+South Sandwich Islands:1	3583
+South Sandwich Islands:Thule Island	3584
+South Sandwich Islands:Bristol Island	3585
+South Sandwich Islands:Montagu Island	3586
+South Sandwich Islands:Saunders Island	3587
+South Sandwich Islands:Candlemas Island	3588
+South Sandwich Islands:7	3589
+South Sandwich Islands:Visokoi Island	3590
+South Sandwich Islands:Zavodovski Island	3591
+South Sandwich Islands:Annenkov Island	3592
+South Sandwich Islands:11	3593
+South Georgia	3594
 Saint Helena:Gough Island	3595
-Saint Helena:Tristan da Cunha Island	3596
-Saint Helena:3	3597
-Saint Helena:Ascension Island	3598
+Tristan da Cunha Island	3596
+Saint Helena	3597
+Ascension Island	3598
 Solomon Islands:1	3599
 Solomon Islands:2	3600
 Solomon Islands:Vanikoro	3601
@@ -3652,11 +3652,11 @@ El Salvador	3651
 San Marino	3652
 Somaliland	3653
 Somalia	3654
-Saint Pierre and Miquelon:1	3655
+Saint Pierre and Miquelon:Saint Pierre	3655
 Saint Pierre and Miquelon:Miquelon	3656
 Serbia	3657
-São Tomé and Principe:Ilha da Sao Tome	3658
-São Tomé and Principe:Ilha do Principe	3659
+Sao Tome and Principe:Ilha da Sao Tome	3658
+Sao Tome and Principe:Ilha do Principe	3659
 Suriname	3660
 Slovakia	3661
 Slovenia	3662
@@ -3783,8 +3783,8 @@ Tonga:Haano	3782
 Tonga:Late Island	3783
 Tonga:Vava'u	3784
 Tonga:Niuafo'ou	3785
-Trinidad and Tobago:Trinidad	3786
-Trinidad and Tobago:Tobago	3787
+Trinidad	3786
+Tobago	3787
 Tunisia:Jerba	3788
 Tunisia:2	3789
 Tunisia:Shergui Island	3790
@@ -3846,19 +3846,19 @@ Ukraine:Ostrov Dzharylgach	3845
 Ukraine	3846
 Ukraine:5	3847
 Ukraine:6	3848
-United States Minor Outlying Islands:1	3849
-United States Minor Outlying Islands:2	3850
-United States Minor Outlying Islands:3	3851
-United States Minor Outlying Islands:4	3852
-United States Minor Outlying Islands:5	3853
-United States Minor Outlying Islands:6	3854
-United States Minor Outlying Islands:Johnston Island	3855
-United States Minor Outlying Islands:8	3856
-United States Minor Outlying Islands:9	3857
-United States Minor Outlying Islands:10	3858
-United States Minor Outlying Islands:Wake Island	3859
-United States Minor Outlying Islands:12	3860
-United States Minor Outlying Islands:13	3861
+US Minor Outlying Islands:1	3849
+US Minor Outlying Islands:2	3850
+US Minor Outlying Islands:3	3851
+US Minor Outlying Islands:4	3852
+US Minor Outlying Islands:5	3853
+US Minor Outlying Islands:6	3854
+US Minor Outlying Islands:Johnston Island	3855
+US Minor Outlying Islands:8	3856
+US Minor Outlying Islands:9	3857
+US Minor Outlying Islands:10	3858
+US Minor Outlying Islands:Wake Island	3859
+US Minor Outlying Islands:12	3860
+US Minor Outlying Islands:13	3861
 Uruguay	3862
 USA:Hawaii	3863
 USA:Hawaii:Kahoolawe	3864
@@ -4271,15 +4271,15 @@ Venezuela:26	4270
 Venezuela:27	4271
 Venezuela	4272
 Venezuela:29	4273
-British Virgin Islands:1	4274
-British Virgin Islands:Tortola	4275
-British Virgin Islands:3	4276
-British Virgin Islands:4	4277
-British Virgin Islands:5	4278
-British Virgin Islands:Anegada	4279
-United States Virgin Islands:Saint Croix	4280
-United States Virgin Islands:Saint John	4281
-United States Virgin Islands:Saint Thomas	4282
+Virgin Islands, British:1	4274
+Virgin Islands, British:Tortola	4275
+Virgin Islands, British:3	4276
+Virgin Islands, British:4	4277
+Virgin Islands, British:5	4278
+Virgin Islands, British:Anegada	4279
+Virgin Islands, US:Saint Croix	4280
+Virgin Islands, US:Saint John	4281
+Virgin Islands, US:Saint Thomas	4282
 Vietnam:Con Son	4283
 Vietnam:2	4284
 Vietnam:3	4285
@@ -4332,9 +4332,9 @@ Vanuatu:Ureparapara	4331
 Vanuatu:Toga	4332
 Vanuatu:26	4333
 Vanuatu:Hiu	4334
-Wallis and Futuna Islands:Futuna	4335
-Wallis and Futuna Islands:Uvea	4336
-Akrotiri	4337
+Wallis and Futuna:Futuna	4335
+Wallis and Futuna:Uvea	4336
+Cyprus:Akrotiri	4337
 Samoa:Upolu	4338
 Samoa:Savai'i	4339
 Yemen:1	4340
