@@ -1,14 +1,14 @@
 Package: mapdataNE
 Title: Map databases from the Natural Earth project.
-Version: 0.1.0-1
-Date: 2015-08-13
+Version: 0.1.0-3
+Date: 2015-11-05
 Author: Original S code by Richard A. Becker and Allan R. Wilks. 
         R version by Ray Brownrigg <Ray.Brownrigg@ecs.vuw.ac.nz>.
         Map data derived from Natural Earth project www.naturalearthdata.com
            and converted to R by Alex Deckmyn <alex.deckmyn@meteo.be>
 Description: Supplement to maps package, providing updated (2013)
         high-resolution databases.
-Depends: R (>= 2.10.0), maps (>= 2.9-0)
+Depends: R (>= 2.10.0), maps (>= 3.0.0)
 LazyData: yes
 URL: https://github.com/adeckmyn/mapdataNE
 License: GPL-2
